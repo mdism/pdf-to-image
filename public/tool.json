@@ -1,0 +1,7 @@
+{
+  "name": "PDF to Image",
+  "icon": "P→",
+  "desc": "Turn every page of a PDF into a JPG or PNG image, right in your browser.",
+  "status": "live",
+  "order": 23
+}
